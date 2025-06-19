@@ -1,0 +1,6 @@
+name: ElytraFixes
+version: '${version}'
+author: '${author}'
+main: sb.lite.elytrafixes.ElytraFixes
+api-version: '1.20'
+description: Фиксит полеты под водой на элитрах с фейерверками
